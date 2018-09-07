@@ -3,8 +3,6 @@ package venapps.com;
 public class Employee {
 	public static void main(String[] args) {
 		int a = 22;
-		a += 55;
-		a -= 22;
 		google();
 		if (a > 45)
 			System.out.println("good");
